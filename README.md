@@ -113,7 +113,9 @@ The best model was selected based on highest R² score and lowest RMSE.
 
 The final model was saved using Joblib:
 
-BMD_RG_value.pkl
+BMD_RG.pkl
+
+
 9️⃣ Deployment
 
 The trained model is deployed using Streamlit and hosted on HuggingFace Spaces.
